@@ -33,6 +33,7 @@ gem 'hirb'
 gem 'bootstrap', '~> 4.0.0.alpha3.1'
 gem 'friendly_id', '~> 5.1.0' # Note: You MUST use 5.0.0 or greater for Rails 4.0+
 gem 'faker'
+gem 'devise'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
